@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/uvuuview/VE280/project5/Project-5-Related-Files/Dlist.h
+DlistImpl.h
+/home/uvuuview/VE280/project5/Project-5-Related-Files/DlistImpl.h
+
+/home/uvuuview/VE280/project5/Project-5-Related-Files/DlistImpl.h
+
+/home/uvuuview/VE280/project5/Project-5-Related-Files/Instr.h
+iostream
+-
+string
+-
+
+/home/uvuuview/VE280/project5/Project-5-Related-Files/sam.cpp
+algorithm
+-
+iostream
+-
+string
+-
+Dlist.h
+/home/uvuuview/VE280/project5/Project-5-Related-Files/Dlist.h
+Instr.h
+/home/uvuuview/VE280/project5/Project-5-Related-Files/Instr.h
+
