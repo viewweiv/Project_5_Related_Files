@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/uvuuview/VE280/project5/Project-5-Related-Files/sam.cpp" "/home/uvuuview/VE280/project5/Project-5-Related-Files/cmake-build-debug/CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o"
+  "/home/uvuuview/VE280/project5/Project-5-Related-Files/test.cpp" "/home/uvuuview/VE280/project5/Project-5-Related-Files/cmake-build-debug/CMakeFiles/Project_5_Related_Files.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o -o Project_5_Related_Files 
+/usr/bin/c++ -g CMakeFiles/Project_5_Related_Files.dir/test.cpp.o -o Project_5_Related_Files 

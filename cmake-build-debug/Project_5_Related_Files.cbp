@@ -93,9 +93,6 @@
 		<Unit filename="/home/uvuuview/VE280/project5/Project-5-Related-Files/Instr.h">
 			<Option target="Project_5_Related_Files"/>
 		</Unit>
-		<Unit filename="/home/uvuuview/VE280/project5/Project-5-Related-Files/sam.cpp">
-			<Option target="Project_5_Related_Files"/>
-		</Unit>
 		<Unit filename="/home/uvuuview/VE280/project5/Project-5-Related-Files/sample.in">
 			<Option target="Project_5_Related_Files"/>
 		</Unit>
@@ -103,6 +100,9 @@
 			<Option target="Project_5_Related_Files"/>
 		</Unit>
 		<Unit filename="/home/uvuuview/VE280/project5/Project-5-Related-Files/sample_s.out">
+			<Option target="Project_5_Related_Files"/>
+		</Unit>
+		<Unit filename="/home/uvuuview/VE280/project5/Project-5-Related-Files/test.cpp">
 			<Option target="Project_5_Related_Files"/>
 		</Unit>
 		<Unit filename="/home/uvuuview/VE280/project5/Project-5-Related-Files/CMakeLists.txt">

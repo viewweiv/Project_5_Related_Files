@@ -66,27 +66,27 @@ include CMakeFiles/Project_5_Related_Files.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Project_5_Related_Files.dir/flags.make
 
-CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o: CMakeFiles/Project_5_Related_Files.dir/flags.make
-CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o: ../sam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uvuuview/VE280/project5/Project-5-Related-Files/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o -c /home/uvuuview/VE280/project5/Project-5-Related-Files/sam.cpp
+CMakeFiles/Project_5_Related_Files.dir/test.cpp.o: CMakeFiles/Project_5_Related_Files.dir/flags.make
+CMakeFiles/Project_5_Related_Files.dir/test.cpp.o: ../test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/uvuuview/VE280/project5/Project-5-Related-Files/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project_5_Related_Files.dir/test.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project_5_Related_Files.dir/test.cpp.o -c /home/uvuuview/VE280/project5/Project-5-Related-Files/test.cpp
 
-CMakeFiles/Project_5_Related_Files.dir/sam.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project_5_Related_Files.dir/sam.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uvuuview/VE280/project5/Project-5-Related-Files/sam.cpp > CMakeFiles/Project_5_Related_Files.dir/sam.cpp.i
+CMakeFiles/Project_5_Related_Files.dir/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project_5_Related_Files.dir/test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/uvuuview/VE280/project5/Project-5-Related-Files/test.cpp > CMakeFiles/Project_5_Related_Files.dir/test.cpp.i
 
-CMakeFiles/Project_5_Related_Files.dir/sam.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project_5_Related_Files.dir/sam.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uvuuview/VE280/project5/Project-5-Related-Files/sam.cpp -o CMakeFiles/Project_5_Related_Files.dir/sam.cpp.s
+CMakeFiles/Project_5_Related_Files.dir/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project_5_Related_Files.dir/test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/uvuuview/VE280/project5/Project-5-Related-Files/test.cpp -o CMakeFiles/Project_5_Related_Files.dir/test.cpp.s
 
 # Object files for target Project_5_Related_Files
 Project_5_Related_Files_OBJECTS = \
-"CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o"
+"CMakeFiles/Project_5_Related_Files.dir/test.cpp.o"
 
 # External object files for target Project_5_Related_Files
 Project_5_Related_Files_EXTERNAL_OBJECTS =
 
-Project_5_Related_Files: CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o
+Project_5_Related_Files: CMakeFiles/Project_5_Related_Files.dir/test.cpp.o
 Project_5_Related_Files: CMakeFiles/Project_5_Related_Files.dir/build.make
 Project_5_Related_Files: CMakeFiles/Project_5_Related_Files.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/uvuuview/VE280/project5/Project-5-Related-Files/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Project_5_Related_Files"

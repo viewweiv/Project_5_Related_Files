@@ -129,29 +129,29 @@ Project_5_Related_Files/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Project_5_Related_Files.dir/build.make CMakeFiles/Project_5_Related_Files.dir/build
 .PHONY : Project_5_Related_Files/fast
 
-sam.o: sam.cpp.o
-.PHONY : sam.o
+test.o: test.cpp.o
+.PHONY : test.o
 
 # target to build an object file
-sam.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Project_5_Related_Files.dir/build.make CMakeFiles/Project_5_Related_Files.dir/sam.cpp.o
-.PHONY : sam.cpp.o
+test.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Project_5_Related_Files.dir/build.make CMakeFiles/Project_5_Related_Files.dir/test.cpp.o
+.PHONY : test.cpp.o
 
-sam.i: sam.cpp.i
-.PHONY : sam.i
+test.i: test.cpp.i
+.PHONY : test.i
 
 # target to preprocess a source file
-sam.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Project_5_Related_Files.dir/build.make CMakeFiles/Project_5_Related_Files.dir/sam.cpp.i
-.PHONY : sam.cpp.i
+test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Project_5_Related_Files.dir/build.make CMakeFiles/Project_5_Related_Files.dir/test.cpp.i
+.PHONY : test.cpp.i
 
-sam.s: sam.cpp.s
-.PHONY : sam.s
+test.s: test.cpp.s
+.PHONY : test.s
 
 # target to generate assembly for a file
-sam.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Project_5_Related_Files.dir/build.make CMakeFiles/Project_5_Related_Files.dir/sam.cpp.s
-.PHONY : sam.cpp.s
+test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Project_5_Related_Files.dir/build.make CMakeFiles/Project_5_Related_Files.dir/test.cpp.s
+.PHONY : test.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Project_5_Related_Files"
-	@echo "... sam.o"
-	@echo "... sam.i"
-	@echo "... sam.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
 .PHONY : help
 
 

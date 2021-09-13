@@ -8,10 +8,10 @@ include_directories(.)
 add_executable(Project_5_Related_Files
         Dlist.h
         Instr.h
-        sam.cpp
+#        sam.cpp
         sample.in
         sample.out
         sample_s.out
-#        test.cpp
+        test.cpp
         DlistImpl.h
         )
